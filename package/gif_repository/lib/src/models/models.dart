@@ -1,1 +1,1 @@
-export 'package:gif_repository/src/models/gif_model.dart';
+export 'gif_model.dart';
